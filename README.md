@@ -1,3 +1,3 @@
 # Firstrepository
 my first repository
-author - gagan
+author - gagan kumar
